@@ -14,7 +14,7 @@ const { link,theme,buttonClass, textClass } = Astro.props;
 			<div class="p-2">
 				<img
 					src={link.icon || "/Web.svg"}
-					alt={`${link.name} icon`}
+					alt={`${link.title} icon`}
 					width="30"
 					height="30"
 					class="rounded-md transition-transform duration-300 group-hover:scale-110"
@@ -23,7 +23,7 @@ const { link,theme,buttonClass, textClass } = Astro.props;
 			<span
 				class={textClass}
 			>
-				{link.name}
+				{link.title}
 			</span>
 		</div>
 		</a>
