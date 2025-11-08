@@ -1,12 +1,12 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
   <!-- outer circle -->
   <circle cx="12" cy="12" r="9.4"></circle>
 
   <!-- three downward V-shapes, above centre -->
   <path d="M6 9 L8 11 L10 9 L12 11 L14 9 L16 11 L18 9"></path>
 
-  <!-- founding year “1918” (slightly higher + bold) -->
-  <text x="12" y="17.6" text-anchor="middle" font-size="4.8" font-family="Montserrat, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" stroke="none" fill="currentColor">
+  <!-- founding year “1918” (higher + bold) -->
+  <text x="12" y="17.6" text-anchor="middle" font-size="4.8" font-family="Montserrat, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" stroke="none" fill="#ffffff">
     1918
   </text>
 </svg>
