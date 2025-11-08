@@ -14,8 +14,8 @@ const { profile, avatarClass } = Astro.props;
 		<h1 class="text-2xl font-bold  mt-6 mb-1">
 			{profile.name}
 		</h1>
-		<p class="text-sm max-w-xs mx-auto">
+		<p class="text-sm max-w-xs mx-auto"
 			set:html={profile.description}
-		</>
+		/>
 	</div>
 </div>
