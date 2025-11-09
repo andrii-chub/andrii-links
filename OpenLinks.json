@@ -3,7 +3,7 @@
 	"description": "Links for Andrii Chub profile",
 	"url_base": "https://andriichub.com",
 	"theme": "ocean",
-	"footer": "©2025 Andrii Chub. All rights reserved. <br> Based on OpenLinks Astro template made with ❤️ by E10Y",
+	"footer": "©2025 Andrii Chub. All rights reserved. <br> Based on OpenLinks Astro template from E10Y.",
 	"profile":
 		{
 			"name": "Andrii Chub",
